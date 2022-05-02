@@ -1,0 +1,42 @@
+#navbar{
+    height: 50px;
+    width: 100;
+    border:1px solid black;
+}
+
+#navbar>a{
+    font-size: 21px;
+    margin-left: 20px;
+}
+
+#search_input{
+    height: 30px;
+    width: 70%;
+    margin-left: 60px;
+    border-radius: 12px;
+    margin-top: 7px;
+}
+
+
+#detailed_news{
+    border:1px solid teal;
+    width:100%
+
+}
+#detailed_news>div{
+    margin: auto;
+    /* width: 50%; */
+    border: 1px solid red;
+
+    height: auto;
+    width: auto;
+}
+
+
+
+#img3{
+    height: 250px;
+    width: 100%;
+}
+
+
